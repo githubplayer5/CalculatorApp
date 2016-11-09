@@ -160,4 +160,7 @@ public class MainActivity extends AppCompatActivity {
         result.setText(operand1.toString());
         newNumber.setText("");
     }
+    
+    // This is a comment to test git pull process in Android Studio
+    
 }
